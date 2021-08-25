@@ -11,4 +11,4 @@ yarn install
 ## Run StoryBook
 
 ```
-yarn
+yarn storybook
